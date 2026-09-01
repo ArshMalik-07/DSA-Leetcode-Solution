@@ -14,6 +14,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Quicksort
 |  |
 | ------- |
@@ -54,6 +56,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
