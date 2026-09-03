@@ -16,6 +16,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,10 +63,12 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
