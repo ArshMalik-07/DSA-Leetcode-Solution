@@ -10,6 +10,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0015-3sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -112,4 +113,12 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
