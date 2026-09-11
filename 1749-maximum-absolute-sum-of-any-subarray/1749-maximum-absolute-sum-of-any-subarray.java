@@ -1,31 +1,25 @@
 class Solution {
-      int nums[];
+    int arr[];
     int maxsum(){
-        int bestending=nums[0];
-        int ans=nums[0];
-        for(int i=1;i<nums.length;i++){
-            int a=bestending+nums[i];
-            int b=nums[i];
-            int best=Math.max(a,b);
-            bestending=best;
-            ans=Math.max(ans,best);
+        int bestending=arr[0];
+        int ans=arr[0];
+        for(int i=1;i<arr.length;i++){
+            bestending=Math.max(bestending+arr[i],arr[i]);
+            ans=Math.max(ans,bestending);
         }
         return ans;
     }
     int minsum(){
-        int bestending=nums[0];
-        int ans=nums[0];
-        for(int i=1;i<nums.length;i++){
-            int a=bestending+nums[i];
-            int b=nums[i];
-            int best=Math.min(a,b);
-            bestending=best;
-            ans=Math.min(ans,best);
+        int bestending=arr[0];
+        int ans=arr[0];
+        for(int i=1;i<arr.length;i++){
+            bestending=Math.min(bestending+arr[i],arr[i]);
+            ans=Math.min(ans,bestending);
         }
         return ans;
     }
     public int maxAbsoluteSum(int[] nums) {
-        this.nums=nums;
+        this.arr=nums;
         int max=maxsum();
         int min=minsum();
         return Math.max(Math.abs(max),Math.abs(min));
