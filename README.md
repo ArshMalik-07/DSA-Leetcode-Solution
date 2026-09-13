@@ -34,6 +34,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0027-remove-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
