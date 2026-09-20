@@ -30,6 +30,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -54,6 +55,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +170,8 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
