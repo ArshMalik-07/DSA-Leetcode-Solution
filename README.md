@@ -29,6 +29,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0560-subarray-sum-equals-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -61,6 +62,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +85,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0075-sort-colors](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -196,8 +199,13 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
