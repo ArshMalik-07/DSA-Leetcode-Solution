@@ -127,6 +127,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +147,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0392-is-subsequence](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
