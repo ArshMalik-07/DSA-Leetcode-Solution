@@ -13,6 +13,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0018-4sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0057-insert-interval) |
@@ -53,6 +54,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0018-4sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
