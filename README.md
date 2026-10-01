@@ -151,6 +151,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -218,9 +219,14 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
