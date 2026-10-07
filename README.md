@@ -176,6 +176,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -185,6 +186,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2396-strictly-palindromic-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
@@ -235,4 +237,8 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
