@@ -40,6 +40,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1053-previous-permutation-with-one-swap](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -220,6 +221,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1053-previous-permutation-with-one-swap](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 ## Stack
 |  |
 | ------- |
