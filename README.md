@@ -32,6 +32,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0643-maximum-average-subarray-i](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -228,6 +229,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0020-valid-parentheses](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Timsort
 |  |
@@ -249,4 +251,5 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
