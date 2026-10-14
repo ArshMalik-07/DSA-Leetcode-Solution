@@ -118,6 +118,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0560-subarray-sum-equals-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Quicksort
 |  |
 | ------- |
@@ -166,6 +167,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0392-is-subsequence](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
@@ -264,4 +266,5 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0383-ransom-note](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
