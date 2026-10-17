@@ -27,6 +27,5 @@ class Solution {
             before.next=next;
         }
         return dummy.next;
-
     }
 }
