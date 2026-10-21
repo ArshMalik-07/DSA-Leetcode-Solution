@@ -30,6 +30,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0525-contiguous-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -85,6 +86,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
