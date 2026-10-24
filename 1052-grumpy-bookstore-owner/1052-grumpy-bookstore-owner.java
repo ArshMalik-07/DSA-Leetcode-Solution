@@ -1,16 +1,16 @@
 class Solution {
     public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
         int n=customers.length;
-        int satisfied=0;
+        int sat=0;
         for(int i=0;i<n;i++){
             if(grumpy[i]==0){
-                satisfied+=customers[i];
+                sat+=customers[i];
             }
         }
         int sum=0;
         for(int i=0;i<minutes;i++){
             if(grumpy[i]==1){
-                sum=sum+customers[i];
+                sum+=customers[i];
             }
         }
         int maxsum=sum;
@@ -24,6 +24,6 @@ class Solution {
             }
             maxsum=Math.max(maxsum,sum);
         }
-        return satisfied+maxsum;
+        return sat+maxsum;
     }
 }
