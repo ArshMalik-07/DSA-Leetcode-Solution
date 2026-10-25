@@ -42,6 +42,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -80,6 +81,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [2396-strictly-palindromic-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
@@ -109,6 +111,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0948-bag-of-tokens](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -250,6 +253,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0011-container-with-most-water](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 ## Stack
 |  |
