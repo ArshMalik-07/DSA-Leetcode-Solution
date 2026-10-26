@@ -2,8 +2,8 @@ class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int ran=ransomNote.length();
         int mag=magazine.length();
-        HashMap<Character,Integer> need=new HashMap<>();
-        HashMap<Character,Integer> have=new HashMap<>();
+        HashMap<Character,Integer> need= new HashMap<>();
+        HashMap<Character,Integer> have= new HashMap<>();
         for(int i=0;i<ran;i++){
             need.put(ransomNote.charAt(i),need.getOrDefault(ransomNote.charAt(i),0)+1);
         }
