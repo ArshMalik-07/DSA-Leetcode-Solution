@@ -231,6 +231,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2396-strictly-palindromic-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
