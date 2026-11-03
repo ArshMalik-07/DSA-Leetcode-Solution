@@ -26,6 +26,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0162-find-peak-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0275-h-index-ii) |
@@ -119,6 +120,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0056-merge-intervals](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,6 +139,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0141-linked-list-cycle](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0383-ransom-note) |
