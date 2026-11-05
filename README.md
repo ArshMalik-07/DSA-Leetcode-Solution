@@ -55,6 +55,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -112,6 +113,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Sorting
 |  |
