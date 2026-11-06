@@ -30,6 +30,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0162-find-peak-element](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -252,6 +254,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -346,4 +349,5 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
