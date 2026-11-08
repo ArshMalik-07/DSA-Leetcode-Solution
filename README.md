@@ -69,6 +69,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [1552-magnetic-force-between-two-balls](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1652-defuse-the-bomb](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2105-watering-plants-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | [0948-bag-of-tokens](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+| [2105-watering-plants-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 | [2396-strictly-palindromic-number](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -354,4 +356,8 @@ My LeetCode solutions in Java for Data Structures and Algorithms.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [2105-watering-plants-ii](https://github.com/ArshMalik-07/LeetCode-Solutions/tree/master/2105-watering-plants-ii) |
 <!---LeetCode Topics End-->
